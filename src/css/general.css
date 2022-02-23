@@ -1,0 +1,21 @@
+.line1 {
+  position: absolute;
+  margin-left: 1%;
+  margin-top: 2%;
+  color: white;
+  font-size: 38px;
+  text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000,
+    0 -2px 0 rgb(255 250 250), 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000,
+    -1px 1px 0 #000;
+}
+
+.line2 {
+  position: absolute;
+  margin-left: 1%;
+  margin-top: 32%;
+  color: white;
+  font-size: 38px;
+  text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000,
+    0 -2px 0 rgb(255 250 250), 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000,
+    -1px 1px 0 #000;
+}
